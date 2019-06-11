@@ -34,7 +34,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   
-famous_cats[index_number]
+return array[index_number]
 
 end
 
