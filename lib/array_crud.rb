@@ -9,11 +9,14 @@ end
 def add_element_to_end_of_array(array, element)
   
   puppies = ["bulldog", "terrier", "poodle", "mutt"]
-  puppies << "arrays!"
+  puppies << "wow"
   
 end
 
 def add_element_to_start_of_array(array, element)
+  
+  puppies = ["bulldog", "terrier", "poodle", "mutt"]
+  puppies.unshift("nala cat")
   
 end
 
