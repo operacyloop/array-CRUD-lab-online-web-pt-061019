@@ -16,7 +16,7 @@ end
 def add_element_to_start_of_array(array, element)
   
   puppies = ["bulldog", "terrier", "poodle", "mutt"]
-  puppies.unshift("wow")
+  puppies.unshift(element)
   
 end
 
